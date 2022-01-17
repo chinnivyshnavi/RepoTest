@@ -1,2 +1,2 @@
 this file is to test the github deployment for the azure app service through azure app service build service provider
-Edited by Manju
+edit 1
